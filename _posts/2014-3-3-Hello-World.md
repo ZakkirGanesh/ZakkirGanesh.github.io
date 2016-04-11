@@ -1,10 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Up and running in place!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Hello. My name is Shreyas Ganesh. I go by the name Zakkir. This is my first blog here on my currently untitled blog relating to data science. I will probably have a better blog about my first big data science project soon. In the mean time, I hope you admire the wordsmanship of this introductory post.
