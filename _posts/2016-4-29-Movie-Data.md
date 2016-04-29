@@ -1,5 +1,6 @@
 ---
-Title: Movie Data
+layout: post
+title: Movie Data
 ---
 
 So it's the April 29, 2016, the end of Week 4, and I've now finished two projects in Metis, the first a group project about the use of turnstiles at MTA subway stations, the second an individual project about potential patterns in web-scraped box office data. I've never really used Python to this extent before, and now I'm already starting to webscrape HTML (which I really don't understand yet, therefore I fear, therefore I hate), and run one of a few linear regression tools on Pandas DataFrames (which I like less as I learn more).
