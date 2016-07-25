@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Metis Final Project: Breaking the Habit
+title: Metis Final Project
 ---
 
 This post is in regards to my final project for Metis Data Science Bootcamp, presented at our career day on Thursday, June 23, 2016. My project was called "Breaking the Habit", and details my efforts to create a playlist generator for Spotify that would specifically recommend music that is **unlike** what you normally listen to.
